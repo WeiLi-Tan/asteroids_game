@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+p.highlight {
+    color: red;
+}
+
+body {
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+}
+
+#canvas {
+    background-color:  rgb(41, 41, 36);
+}
+
+.label {
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
